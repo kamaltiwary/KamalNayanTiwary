@@ -1,4 +1,4 @@
-#  Hi 👋, I'm KAMAL NAYAN TIWARI
+#  Hi 👋, I'm KAMAL NAYAN TIWARY
 ## A passionate Data Analyst
 
 **I’ve worked extensively with:**
